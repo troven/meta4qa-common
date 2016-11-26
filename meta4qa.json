@@ -1,0 +1,15 @@
+{
+	"paths" :{
+		"features": "./features",
+		"files": "./files"
+	},
+	"target": {},
+	"targets": {
+		"google": {
+			"hostname": "google.com"
+		}
+	},
+	"agent": {},
+	"agents": {},
+	"certificates": {}
+}
