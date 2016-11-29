@@ -1,4 +1,4 @@
-![meta4qa](docs/favicon.png) ![CI](https://travis-ci.org/meta4qa/dialect.svg?branch=master) ![version](https://img.shields.io/github/release/meta4qa/dialect.svg?maxAge=2592000) ![dependencies](https://img.shields.io/david/meta4qa/dialect.svg?maxAge=2592000) ![meta4qas](https://img.shields.io/badge/meta4qas-are%20awesome-800080.svg)
+![meta4qa](docs/favicon.png) ![CI](https://travis-ci.org/meta4qa/dialect.svg?branch=master) ![version](https://img.shields.io/github/release/meta4qa/dialect.svg?maxAge=2592000) ![dependencies](https://img.shields.io/david/meta4qa/dialect.svg?maxAge=2592000) 
 
 A library for parsing and executing Gherkin-English
 ===================================================
