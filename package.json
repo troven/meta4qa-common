@@ -1,6 +1,6 @@
 {
   "name": "meta4qa-common",
-  "version": "1.9.2",
+  "version": "1.9.3",
   "description": "Utility dialect for meta4qa",
   "main": "lib/index.js",
   "scripts": {
@@ -37,13 +37,13 @@
     "xpath": "0.0.23"
   },
   "bin": {},
-	"peerDependencies": {
-		"meta4qa-common": "^1.9.0",
-		"meta4qa-webapi": "^1.9.0"
-	},
-	"ignore-devDependencies": {
-		"grunt": "^1.0.1",
-		"grunt-contrib-jshint": "^1.0.0",
-		"grunt-contrib-yuidoc": "^1.0.0"
-	}
+  "peerDependencies": {
+    "meta4qa-common": "^1.9.0",
+    "meta4qa-webapi": "^1.9.0"
+  },
+  "ignore-devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-yuidoc": "^1.0.0"
+  }
 }
