@@ -1,6 +1,6 @@
 {
   "name": "meta4qa-common",
-  "version": "1.9.9",
+  "version": "1.9.10",
   "description": "Utility dialect for meta4qa",
   "main": "lib/index.js",
   "scripts": {
